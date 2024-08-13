@@ -1,6 +1,6 @@
 # Boas vindas ao meu perfil😸
 
-_ Meu nome é Thiago Camargo_
+_Meu nome é Thiago Camargo_
 
 - Estou estudando na Alura
 - Estou me desenvolvimento na linguagem JavaScript
